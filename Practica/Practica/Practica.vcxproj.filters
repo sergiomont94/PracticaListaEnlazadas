@@ -21,12 +21,18 @@
     <ClInclude Include="EjemploListaEnlazada.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="prueba.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EjemploArchivoBinario.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="EjemploListaEnlazada.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prueba.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

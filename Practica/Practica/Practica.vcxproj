@@ -117,10 +117,12 @@
   <ItemGroup>
     <ClInclude Include="EjemploArchivoBinario.h" />
     <ClInclude Include="EjemploListaEnlazada.h" />
+    <ClInclude Include="prueba.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EjemploArchivoBinario.cpp" />
     <ClCompile Include="EjemploListaEnlazada.cpp" />
+    <ClCompile Include="prueba.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
